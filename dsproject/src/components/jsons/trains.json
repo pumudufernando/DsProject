@@ -1,0 +1,30 @@
+[{
+
+    "tno": 16,
+    "tname": "Udarata Menike",
+    "sstation": "Pettah",
+    "estation": "Badulla",
+    "stime": "10.00",
+    "etime": "17.00",
+    "type":"Express",
+    "frequency": "Daily",
+    "from": "Kandy",
+    "qty": "10",
+    "price":"500"
+  },
+
+    {
+
+        "tno": 10,
+        "tname": "Ruhunu Kumari",
+        "sstation": "Pettah",
+        "estation": "Matara",
+        "stime": "10.00",
+        "etime": "17.00",
+        "type":"Express",
+        "frequency": "Daily",
+        "from": "Galle",
+        "qty": "450",
+        "price":"500"
+    }
+]
